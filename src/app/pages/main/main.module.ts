@@ -16,6 +16,7 @@ import { SharedDirectiveModule } from '../../directives';
     declarations: [
         MainComponent
     ],
+    // 组件引入
     imports: [
         CommonModule,
         FormsModule,
